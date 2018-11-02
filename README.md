@@ -1,4 +1,6 @@
-### A multi-threaded chat application, imlpemented in Java. Completed in my Advanced Programming class, as an introduction to socket and thread programming. 
+# Chatty Chat
+
+#### A multi-threaded chat application, imlpemented in Java. Completed in my Advanced Programming class, as an introduction to socket and thread programming. 
 
 ## Command Line Usage:
 * the server must be started before the client
