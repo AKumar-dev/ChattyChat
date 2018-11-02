@@ -3,7 +3,8 @@
 #### A multi-threaded chat application, implemented in Java. Completed in my Advanced Programming class, as an introduction to socket and thread programming. 
 
 ## Command Line Usage:
-* the server must be started before the client(s)
+
+#### the server must be started before the client(s), and obviously the files must be compiled first
 
 _$ java ChattyChatChatServer [insert port number here]_
 
@@ -25,4 +26,4 @@ can direct message user with specified nickname
 
 Quits the client and removes from list of clients stored on the server.
 
-#### if no commands are specified, the typed text will be sent to all clients
+#### If no commands are specified, the typed text will be sent to all clients
