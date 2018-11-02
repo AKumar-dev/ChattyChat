@@ -5,9 +5,9 @@
 ## Command Line Usage:
 * the server must be started before the client(s)
 
-*$ java ChattyChatChatServer [insert port number here]
+_$ java ChattyChatChatServer [insert port number here]_
 
-*$ java ChattyChatChatClient [insert hostname] *[insert port number]
+_$ java ChattyChatChatClient [insert hostname] [insert port number]_
 
 If you are running this locally, enter 'localhost' for the hostname.
 
